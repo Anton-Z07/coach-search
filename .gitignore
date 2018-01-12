@@ -1,0 +1,14 @@
+*.log
+*.txt
+*.zip
+*.rar
+*.gz
+/assets
+
+/protected/runtime
+!protected/runtime/.gitkeep 
+
+/uploads/profiles/*
+!uploads/profiles/.gitkeep 
+/uploads/trainings/*
+!uploads/trainings/.gitkeep 

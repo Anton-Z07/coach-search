@@ -1,0 +1,284 @@
+.daterangepicker-inputs, .range_inputs {
+	display: none;
+}
+.daterange-basic {
+	width: 170px !important;
+}
+.col-daterange {
+	width: 215px;
+	float: left;
+}
+.datatable-header {
+	display: none;
+}
+.panel-flat>.panel-heading+.dataTables_wrapper {
+	border: none;
+}
+.buttons {
+    margin-top: 5px;
+    text-align: right;
+}
+input.xs {
+	width: 100px;
+}
+.btn-xxs {
+    padding: 0px 6px;
+}
+.inner-link,.inner-link-black,.inner-link-red {
+	border: 1px dashed #1e88e5;
+	border-width: 0 0 1px 0;
+	cursor: pointer;
+}
+.inner-link-black {
+	color: black !important;
+	border-color: black;
+}
+.inner-link-red {
+	color: #d84315;
+	border-color: #d84315;
+}
+.w40 {
+	display: inline-block;
+	width: 40px;
+}
+.w50 {
+	display: inline-block;
+	width: 50px;
+}
+.w60 {
+	display: inline-block;
+	width: 60px;
+}
+.w80 {
+	display: inline-block;
+	width: 80px;
+}
+.w100 {
+	display: inline-block;
+	width: 100px;
+}
+.w110 {
+	display: inline-block;
+	width: 110px;
+}
+.w150 {
+	display: inline-block;
+	width: 150px;
+}
+.w130 {
+	display: inline-block;
+	width: 130px;
+}
+.w200 {
+	display: inline-block;
+	width: 200px;
+}
+.w300 {
+	display: inline-block;
+	width: 300px;
+}
+.w400 {
+	display: inline-block;
+	width: 400px;
+}
+.w500 {
+	display: inline-block;
+	width: 500px;
+}
+.w900 {
+	display: inline-block;
+	width: 900px;
+}
+.top-tabbable {
+	margin-top: 1px;
+}
+.simple {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 0 6px;
+}
+.sc {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding: 0 4px;
+}
+.dn {
+	display: none;
+}
+.vtop {
+	vertical-align: top !important;
+}
+.type-smtp {
+	background-color: #8e24aa;
+	color: white;
+}
+.type-mandrill {
+	background-color: #009688;
+	color: white;
+}
+.type-unisender {
+	background-color: #de243e;
+	color: white;
+}
+.tc {
+	text-align: center;
+}
+.tr {
+	text-align: right;
+}
+.tl {
+	text-align: left;
+}
+.ib {
+	display: inline-block;
+	width: initial;
+}
+.clr, .cb {
+	clear: both;
+}
+.table-hover {
+	cursor: pointer;
+}
+.fr {
+	float: right;
+}
+.copy-input {
+	padding: 0 4px;
+}
+.editable-text {
+	cursor: pointer;
+	border: 1px dashed #999;
+	border-width: 0 0 1px 0;
+}
+.editable-text.editing {
+	border: none;
+}
+.test_email * {
+	vertical-align: top;
+}
+.test_email input[type=text] {
+	display: inline-block;
+	width: 200px;
+}
+.test_email div {
+	display: inline-block;
+	width: 60px;
+	padding: 7px 0;
+}
+.test_email span {
+	color: #666;
+	display: none;
+}
+.x-scroll {
+	overflow-x: auto;
+}
+.percentage {
+	color: #aaa;
+	margin-left: 10px;
+}
+.dlt {
+	opacity: 0;
+	transition: opacity 0.5s;
+}
+tr:hover .dlt, .dlt-parent:hover .dlt {
+	opacity: 1;
+}
+.radio-inline, .checkbox-inline {
+	padding-left: 16px !important;
+	margin-left: 0px;
+}
+.mt0 {
+	margin-top: 0px  !important;
+}
+.mb10 {
+	margin-bottom: 10px;
+}
+.mt10 {
+	margin-top: 10px;
+}
+.mr10 {
+	margin-right: 10px;
+}
+.ml10 {
+	margin-left: 10px;
+}
+.mb20 {
+	margin-bottom: 20px;
+}
+.mt20 {
+	margin-top: 20px;
+}
+.mr20 {
+	margin-right: 20px;
+}
+.ml20 {
+	margin-left: 20px;
+}
+.btn-inverse, .btn-inverse:hover  {
+	background-color: #262626;
+	color: white;
+}
+.pr {
+	position: relative;
+}
+.right-hidden-menu {
+	display: inline-block;
+	width: auto;
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 10px;
+	background-color: white;
+	border: 1px solid #ccc;
+	border-radius: 8px;
+	z-index: 100;
+	display: none;
+}
+.right-menu-button {
+	color: #444;
+	height: 36px;
+	width: 57px;
+	position: relative;
+}
+.right-menu-button span {
+	top: -11px;
+	right: 12px;
+	font-size: 40px;
+	position: absolute;
+}
+.wauto {
+	display: inline-block;
+	width: auto;
+}
+.vhid {
+	visibility: hidden;
+}
+
+tr.disabled {
+	background-color: #f0f0f0;
+	color: #999;
+}
+tr .show_button {
+	display: none;
+}
+tr.disabled .hide_button {
+	display: none;
+}
+tr.disabled .show_button {
+	display: inherit;
+}
+.mlr-10 {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.dataTable td:last-child a {
+	margin-right: 20px;
+}
+.dataTable td:last-child a:last-child {
+	margin-right: 0;
+}
+.btn-xs {
+	padding: 0.05rem .35rem;
+    font-size: .875rem;
+    line-height: 1.25;
+}
